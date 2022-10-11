@@ -1,0 +1,27 @@
+12:20:00,444 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 65.0.174.238:80
+12:20:01,55 urllib3.connectionpool DEBUG http://65.0.174.238:80 "GET /api/mca_info/cinList HTTP/1.1" 301 0
+12:20:01,272 urllib3.connectionpool DEBUG http://65.0.174.238:80 "GET /api/mca_info/cinList/ HTTP/1.1" 200 51893
+12:20:02,695 selenium.webdriver.remote.remote_connection DEBUG POST http://127.0.0.1:35221/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--window-size=1420,1080", "--headless", "--no-sandbox"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--window-size=1420,1080", "--headless", "--no-sandbox"]}}}
+12:20:02,696 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:35221
+12:20:02,816 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "POST /session HTTP/1.1" 200 856
+12:20:02,817 selenium.webdriver.remote.remote_connection DEBUG Finished Request
+12:20:02,817 root INFO Chrome driver initalized
+12:20:02,817 root INFO 0) Processing CIN:U93030DL2010PLC198141
+12:20:02,817 selenium.webdriver.remote.remote_connection DEBUG POST http://127.0.0.1:35221/session/d71622edd253cd316c1960280bc2aaba/url {"url": "http://www.mca.gov.in/mcafoportal/viewPublicDocumentsFilter.do", "sessionId": "d71622edd253cd316c1960280bc2aaba"}
+12:20:08,791 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "POST /session/d71622edd253cd316c1960280bc2aaba/url HTTP/1.1" 200 72
+12:20:08,792 selenium.webdriver.remote.remote_connection DEBUG Finished Request
+12:20:08,792 selenium.webdriver.remote.remote_connection DEBUG GET http://127.0.0.1:35221/session/d71622edd253cd316c1960280bc2aaba/source {"sessionId": "d71622edd253cd316c1960280bc2aaba"}
+12:20:08,803 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "GET /session/d71622edd253cd316c1960280bc2aaba/source HTTP/1.1" 200 91723
+12:20:08,805 selenium.webdriver.remote.remote_connection DEBUG Finished Request
+12:20:19,821 selenium.webdriver.remote.remote_connection DEBUG POST http://127.0.0.1:35221/session/d71622edd253cd316c1960280bc2aaba/element {"using": "xpath", "value": "//input[@id=\"cinChk\"]", "sessionId": "d71622edd253cd316c1960280bc2aaba"}
+12:20:19,835 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "POST /session/d71622edd253cd316c1960280bc2aaba/element HTTP/1.1" 200 103
+12:20:19,835 selenium.webdriver.remote.remote_connection DEBUG Finished Request
+12:20:19,835 selenium.webdriver.remote.remote_connection DEBUG POST http://127.0.0.1:35221/session/d71622edd253cd316c1960280bc2aaba/element/0.12428188593284561-1/click {"id": "0.12428188593284561-1", "sessionId": "d71622edd253cd316c1960280bc2aaba"}
+12:20:19,873 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "POST /session/d71622edd253cd316c1960280bc2aaba/element/0.12428188593284561-1/click HTTP/1.1" 200 72
+12:20:19,873 selenium.webdriver.remote.remote_connection DEBUG Finished Request
+12:20:20,874 selenium.webdriver.remote.remote_connection DEBUG POST http://127.0.0.1:35221/session/d71622edd253cd316c1960280bc2aaba/element {"using": "xpath", "value": "//input[@id=\"cinFDetails\"]", "sessionId": "d71622edd253cd316c1960280bc2aaba"}
+12:20:20,887 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "POST /session/d71622edd253cd316c1960280bc2aaba/element HTTP/1.1" 200 103
+12:20:20,887 selenium.webdriver.remote.remote_connection DEBUG Finished Request
+12:20:21,889 selenium.webdriver.remote.remote_connection DEBUG POST http://127.0.0.1:35221/session/d71622edd253cd316c1960280bc2aaba/element/0.12428188593284561-2/value {"text": "U93030DL2010PLC198141", "value": ["U", "9", "3", "0", "3", "0", "D", "L", "2", "0", "1", "0", "P", "L", "C", "1", "9", "8", "1", "4", "1"], "id": "0.12428188593284561-2", "sessionId": "d71622edd253cd316c1960280bc2aaba"}
+12:20:21,967 urllib3.connectionpool DEBUG http://127.0.0.1:35221 "POST /session/d71622edd253cd316c1960280bc2aaba/element/0.12428188593284561-2/value HTTP/1.1" 200 72
+12:20:21,968 selenium.webdriver.remote.remote_connection DEBUG Finished Request

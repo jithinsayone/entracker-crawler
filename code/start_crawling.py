@@ -151,7 +151,7 @@ def searching_cin(count, driver, cin, data_push):
     :param data_push:
     :return:
     """
-    main_url = 'http://www.mca.gov.in/mcafoportal/viewPublicDocumentsFilter.do'
+    main_url = 'https://www.mca.gov.in/mcafoportal/viewPublicDocumentsFilter.do'
     logging.info(str(count) + ") Processing CIN:" + str(cin))
     driver.get(main_url)
     if check_if_ip_blocked(driver.page_source):
@@ -504,7 +504,7 @@ def start():
     #cin_list.reverse()
     import json
     cin_list_old = []
-    with open('/home/ubuntu/entracker-crawler/error/last_error_file.json','r') as f:
+    with open('/home/ubuntu/code/entracker-crawler/error/last_error_file.json','r') as f:
        error_data = json.load(f)
     for data in error_data:
        cin_list_old.append(data.get('cin'))

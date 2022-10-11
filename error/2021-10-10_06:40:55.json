@@ -1,0 +1,266 @@
+[
+    {
+        "cin": "U93030DL2010PLC198141",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U63090GJ2012PTC107088",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U64201HR2008PTC053766",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72200KA2010PTC054615",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@name='categoryName']/option[text()='Annual Returns and Balance Sheet eForms']\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72300HR2006PTC071540",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72300DL2015PTC279342",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U74999KA2017PTC106688",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@name='categoryName']/option[text()='Annual Returns and Balance Sheet eForms']\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U93000UP2014PTC064870",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U74999DL2018PTC328616",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U74999MH2016PTC287205",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U67190DL2015PTC282441",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U52600MH2012PTC230136",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U92490TG2020PTC140739",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U74999DL2015PTC288909",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72200KA2012PTC065294",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U31900MH2016PTC281796",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72200KA2008PTC046105",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@name='categoryName']/option[text()='Annual Returns and Balance Sheet eForms']\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74900MH2000PTC126237",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72300DL2014PTC271386",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72200GJ2001PTC100083",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@name='categoryName']/option[text()='Annual Returns and Balance Sheet eForms']\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U65190MH2015PTC270609",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72900GJ2007PLC109642",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U72900MH2021PTC52885",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U74999MH2014PTC259739",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@name='categoryName']/option[text()='Annual Returns and Balance Sheet eForms']\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900DL2020PTC360550",
+        "error": "name 'NoSuchElementException' is not defined"
+    },
+    {
+        "cin": "U67190TN2020PTC135200",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U67190MH2014PTC258836",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72300MH2000PLC125441",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U80211DL1997PLC090156",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900MH2020PTC348433",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74900KA2015PTC080316",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U67200DL2018PLC329710",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900KA2003PTC033028",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900KA2018PTC112875",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999HR2015FTC056386",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900TG2010FTC068332",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74900TN2015PTC101916",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U45100KA2014PTC076441",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999DL2020PTC361607",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900KA2017PTC102890",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900DL2010PLC206414",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74900TN2015PTC102252",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U66010PN2016PLC167410",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U70200MH2019PTC328211",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999DL2017PTC310614",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999KA2018PTC112502",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999DL2016PTC300035",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74220KA2016PTC093871",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U63000HR2018PTC077241",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U80302DL2018PTC343554",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999UP2018PTC102725",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U63090TN2006PTC060723",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U80904MH2018PTC307914",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999MH2014PTC255614",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U15100DL2010PTC197532",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900DL2020PTC369181",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72300KA2013PTC087276",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72200HR2019PTC080437",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72300GA2009PTC007713",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U74999KA2019PTC130740",
+        "error": "Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id=\"cinChk\"]\"}\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U67100MH2021PTC359982",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900PN2020FTC190020",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U85100MH2020PTC337804",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U63030KA2016PTC097482",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U72900KA2020FTC138900",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    },
+    {
+        "cin": "U65990KA2020PTC140902",
+        "error": "Message: element not interactable\n  (Session info: headless chrome=94.0.4606.81)\n  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.4.0-1045-aws x86_64)\n"
+    }
+]

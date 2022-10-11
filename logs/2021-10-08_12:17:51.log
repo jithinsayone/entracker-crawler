@@ -1,0 +1,3 @@
+12:17:51,466 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 65.0.174.238:80
+12:17:52,75 urllib3.connectionpool DEBUG http://65.0.174.238:80 "GET /api/mca_info/cinList HTTP/1.1" 301 0
+12:17:52,288 urllib3.connectionpool DEBUG http://65.0.174.238:80 "GET /api/mca_info/cinList/ HTTP/1.1" 200 51893
